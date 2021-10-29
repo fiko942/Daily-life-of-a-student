@@ -1,4 +1,4 @@
-Perkenalkan nama saya Wiji Fiko Teren, saya adalah siswa disalah satu SMK di Jawa Timur, saya kelas 3 smk.
+Perkenalkan nama saya Wiji Fiko Teren, saya adalah siswa disalah satu SMK di Jawa Timur, saya kelas 3.
 
 Ini adalah projek buatan saya, saya mempunyai ide untuk membuat produk ini pada saat saya mengeluarkan kotoran, dan bingung mau ngapain akhirnya saya dapat ide itu.
 
