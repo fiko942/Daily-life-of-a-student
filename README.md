@@ -1,6 +1,6 @@
 Perkenalkan nama saya Wiji Fiko Teren, saya adalah siswa kelas 3 disalah satu SMK di Jawa Timur.
 
-Ini adalah projek buatan saya, saya mempunyai ide untuk membuat produk ini pada saat saya mengeluarkan kotoran, dan bingung mau ngapain akhirnya saya dapat ide itu.
+Ini adalah projek buatan saya, saya mempunyai ide untuk membuat produk ini pada saat saya mengeluarkan kotoran, dan bingung mau ngapain akhirnya saya dapat ide itu. silahkan dikembangkan dengan kreatifitas kalian masing masing biar kita sama sama belajar juga.
 
 untuk password saya enkripsi menggunakan algoritma "PASSWORD DEFAULT" milik PHP.
 dan untuk yang lain seperti catatan, judul catatan, dll. saya menggunakan algoritma "Bcrypt", namun saya tambahkan secret key supaya tidak dapat di decrypt dengan mudah.
